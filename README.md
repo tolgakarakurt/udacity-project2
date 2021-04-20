@@ -1,8 +1,7 @@
 # udacity-project2
-Go Chase It!
-
 Udacity's nano degree program: Robotics Software Engineering  
-Goals: 
+Project Title: Go Chase It!
+Project Goals: 
 - Design and build a 4 wheeled skid-steering robot equipped with a camera and lidar,
 - Use the world environment created in project1,
 - Create a white ball detector algorithm,
