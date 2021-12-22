@@ -7,3 +7,12 @@
 - Create a white ball detector algorithm,
 - Drive the robot toward the ball and stop once nothing appears on the cam.
  
+### Setup and pull
+```
+mkdir -p $HOME/<user_workspace>/src
+cd $HOME/<user_workspace>/src
+git clone git@github.com:tolgakarakurt/udacity-project2.git
+catkin_make
+roslaunch my_robot world.launch
+roslaunch ball_chaser ball_chaser.launch
+```
