@@ -6,7 +6,7 @@
 - Use the world environment created in project1,
 - Create a white ball detector algorithm,
 - Drive the robot toward the ball and stop once nothing appears on the cam.
-- Video: [ball chaser](https://drive.google.com/file/d/1KChEJ0094AI-eKJTh-2Iie8hSe548AJE/view?usp=sharing)  
+- Full video: [ball chaser](https://drive.google.com/file/d/1KChEJ0094AI-eKJTh-2Iie8hSe548AJE/view?usp=sharing)  
 
 **Setup and pull**
 ```
